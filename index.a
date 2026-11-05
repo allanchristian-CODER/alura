@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt_br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <style>
+        header{background-color: #000000b7 ;color:white;text-align:center;max-width: 800px;
+        margin:auto;border:5px solid #a108087e;padding:16px;}
+           main{background-color: #ffff;color:#ca5a5a;}
+           img{width:80px;}
+    </style>
+
+</head>
+<body>
+    <header>
+        <h1>Meu Blog</h1>
+        <p>Vou Compartilhar Conhecmentos Sobre Tecnologia e Progamação</p>
+    </header>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3wGSy2UxQ9PMmIYNOTAqBxqZhtAM6qcCuP9nOeZc4Gg&s=10" alt="Eles" style="width: 30%;" max-withd:600px;>
+    <h2>Meu Primeiro Post</h2>
+    <main>
+        <p>Por:Marcelo Paludetto</p>
+        <p>Boas vindas ao meu blog! aqui vou ensinar dicas de Progamação e 
+            curiosidades da area de tecnologia
+        </p>
+    </main>
+</body>
+</html>
